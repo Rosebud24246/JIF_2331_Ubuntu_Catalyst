@@ -1,0 +1,28 @@
+== Changelog ==
+
+= October-13-2022 :: 0.0.1
+* Initial Release.
+
+= October-22-2022 :: 0.0.2
+* Added Get Started.
+* Updated Footer Link.
+* Added Additional Settings.
+
+= November-19-2022 :: 0.0.3
+* Done with prefixing.
+* Updated PHP version.
+
+= December-7-2022 :: 0.0.4
+* Changed get started.
+* Added links.
+* Added requires at least in style.css.
+
+= January-30-2023 :: 0.0.5
+* Added post settings section.
+* Added enable/disable  options for author, comment, post date.
+* Added blog post content limit option for blog post.
+* Added enable/disable sticky header.
+
+= February-14-2023 :: 0.0.6
+* Added enable/disable  options for single post category.
+* Added enable/disable  options for single post tag.
